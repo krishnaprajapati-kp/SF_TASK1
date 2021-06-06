@@ -1,4 +1,4 @@
-# SF_TASK1
+# SF_TASK-1
 Supervised Machine Learning Linear Regression Model to predict the score of the student based on the number of hours he/she studies.
 
 
